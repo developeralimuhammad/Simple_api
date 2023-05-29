@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.alt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.alt button {
+    padding: 6px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    background-color: #cbf3e7;
+    border: 1px solid white;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.label input {
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.alt-h {
+    background-color: #cbf3e7;
+    width: 100%;
+    border-radius: 6px;
+    margin: 1px auto;
+}
